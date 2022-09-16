@@ -15,5 +15,7 @@ Creativity: I beleive this project to be creative because it requries a level of
 
 Challenges: This project was a challenging one for me, because I have not coded in Python since my first semester of college, which was six semesters ago. Even if I were still somewhat actively coding in Python, it is not the easiest language for me to code in (I found Java to be a language I gravitated towards quickly and can still get back into it little-to-no effort). Figuring out a language again, fixing bugs, and using a new text editor to complete a project in a week where I only have about 3-4 unscheduled hours is a huge task.
 
+Lack of examples: I could not create a list of examples because I currently have a bug in the turtle_routing.py file that prevents me from iterating through a list for turtle to actually make the turtle; everytime the code is ran, Turtle opens then closes immediately.
+
 Meaning to Me: I like the idea of revisiting things I have done before and seeing how I am now relative to then. Using the same language and the same library I used to begin my time as a computer scientist allows me to see exactly how far I have come in attitude, understanding, and the efficiency in which I break down a problem and absorb information. This project helped me familiarize myself with Python more so than I think simple exercizes would have, and now I know my defficiencies and where I need to focus my attention on (mainly identifying bugs and remembering Python conventions).
 
